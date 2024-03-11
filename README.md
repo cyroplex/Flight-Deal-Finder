@@ -19,9 +19,7 @@ Google Sheets API: API used for data management.
 
 Twilio API: API used to send SMS notifications.
 
-## Run on Your Computer
-
-Clone the project
+## Installing
 
 ```bash
   git clone https://github.com/cyroplex/Flight-Deal-Finder.git
